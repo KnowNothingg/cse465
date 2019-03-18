@@ -1,0 +1,41 @@
+Name: Ling Xiang
+Section: C 1:15
+Total: 90/100
+
+Subtotal: 90
+Late hours: 0
+Late penalty: 0
+Comments: n/a
+Additional deductions: 0
+
+15/20 Vandelay: See handwritten comments on PDF file in Canvas.
+10/10 Java program on lnx01: good
+65/70 Z+- test files:
+	Integers and no loops:
+	12/12 prog01.zpm (integer variables only): Passed
+	12/12 prog06.zpm (integer variables only): Passed
+	6/6 prog10.zpm (variable case sensitivity): Passed
+
+	Tests involving strings and no loops:
+	6/6 prog02.zpm (integer and string variables): Passed
+	0/3 prog11.zpm (digits embedded in strings): Failed
+	6/6 prog12.zpm (string variables): Passed
+
+	Loops
+	4/4 prog03.zpm (loop, integers): Passed
+	3/3 prog04.zpm (loop, strings): Passed
+	3/3 prog05.zpm (multiple loops, integers): Passed
+
+	Nested loops
+	5/5 prog07.zpm (nested loop): Passed
+	5/5 prog08.zpm (nested loop): Passed
+
+	Error processing
+	3/3 prog09.zpm (error): Passed
+	0/1 prog13.zpm (error w/ strings): Failed
+	0/1 prog14.zpm (error w/ strings): Failed
+
+	Procedure calls
+	0/0 prog15.zpm (procedure call)(graduate students only): Passed
+	0/0 prog16.zpm (procedure call)(graduate students only): Passed
+

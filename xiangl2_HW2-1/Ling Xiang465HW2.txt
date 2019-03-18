@@ -1,0 +1,32 @@
+Name: Ling Xiang CSE465 xiangl2@miamioh.edu
+Section: C 1:15
+Total: 92.0/100
+
+Subtotal: 92.0
+Late hours: 0
+Late penalty: 0
+Comments: n/a
+Additional deductions: 0
+
+18 out of (20/10) points. Chapter 15 review questions: See handwritten comments on PDF file in Canvas.
+
+Basic processing
+ 8.0 out of (8/4) points. quadradic. Tests passed: 5 of 5
+ 8.0 out of (8/2) points. minutesBetween. Tests passed:  9 of 9
+
+List processing
+ 3.0 out of (9/4) points. negatives. Tests passed: 6 of 6
+ 9.0 out of (9/8) points. reverse. Tests passed: 6 of 6
+ 9.0 out of (9/8) points. isFlatListOfNumbers. Tests passed: 8 of 8
+ 9.0 out of (9/4) points. minAndMax. Tests passed: 5 of 5
+ 9.0 out of (9/8) points. crossProduct. Tests passed: 6 of 6
+ 0.0 out of (0/8) points. replace. Tests passed: 0 of 7
+
+Application
+ 6.0 out of (6/0) points. getLatLon. Tests passed: 6.0 of 5
+ 5.0 out of (5/14) points. getStatesThatContainThisCity. Tests passed: 5 of 5
+ 0.0 out of (0/14) points. getDistanceBetweenZipCodes. Tests passed: 0 of 5
+
+Functionals
+ 8.0 out of (8/8) points. simpleFilter. Tests passed: 5 of 5
+ 0.0 out of (0/8) points. complexFilter. Tests passed: 0 of 5
