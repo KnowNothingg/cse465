@@ -1,0 +1,63 @@
+xiangliang qb
+xiangliang life
+xiangliang alarm
+Traceback (most recent call last):
+  File "alarm.py", line 40, in <module>
+    seperate(line)
+  File "alarm.py", line 18, in seperate
+    startTime.m1 = int(s[2])
+ValueError: invalid literal for int() with base 10: ':'
+Traceback (most recent call last):
+  File "alarm.py", line 40, in <module>
+    seperate(line)
+  File "alarm.py", line 18, in seperate
+    startTime.m1 = int(s[2])
+ValueError: invalid literal for int() with base 10: ':'
+xiangliang connect4
+xiangliang poly
+poly.cs(7,20): error CS0019: Operator `==' cannot be applied to operands of type `char' and `string'
+poly.cs(13,18): error CS0103: The name `j' does not exist in the current context
+poly.cs(19,29): error CS1061: Type `string' does not contain a definition for `split' and no extension method `split' of type `string' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(23,19): error CS1061: Type `System.Collections.Generic.List<string>' does not contain a definition for `add' and no extension method `add' of type `System.Collections.Generic.List<string>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(33,31): error CS1502: The best overloaded method match for `int.Parse(string)' has some invalid arguments
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(33,41): error CS1503: Argument `#1' cannot convert `char' expression to type `string'
+poly.cs(42,42): error CS1061: Type `System.Collections.Generic.List<string>' does not contain a definition for `Length' and no extension method `Length' of type `System.Collections.Generic.List<string>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(44,30): error CS1061: Type `System.Collections.Generic.Dictionary<string,string>' does not contain a definition for `add' and no extension method `add' of type `System.Collections.Generic.Dictionary<string,string>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(50,45): error CS1061: Type `System.Collections.Generic.List<string>' does not contain a definition for `Length' and no extension method `Length' of type `System.Collections.Generic.List<string>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(52,30): error CS1061: Type `System.Collections.Generic.Dictionary<string,string>' does not contain a definition for `add' and no extension method `add' of type `System.Collections.Generic.Dictionary<string,string>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(59,36): error CS1061: Type `System.Collections.Generic.Dictionary<int,int>' does not contain a definition for `add' and no extension method `add' of type `System.Collections.Generic.Dictionary<int,int>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(61,36): error CS1061: Type `System.Collections.Generic.Dictionary<int,int>' does not contain a definition for `Contains' and no extension method `Contains' of type `System.Collections.Generic.Dictionary<int,int>' could be found. Are you missing `System.Linq' using directive?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(62,36): error CS1061: Type `System.Collections.Generic.Dictionary<int,int>' does not contain a definition for `add' and no extension method `add' of type `System.Collections.Generic.Dictionary<int,int>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(65,36): error CS1061: Type `System.Collections.Generic.Dictionary<int,int>' does not contain a definition for `add' and no extension method `add' of type `System.Collections.Generic.Dictionary<int,int>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(73,28): error CS1061: Type `System.Collections.Generic.List<int>' does not contain a definition for `add' and no extension method `add' of type `System.Collections.Generic.List<int>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(75,24): error CS1061: Type `System.Collections.Generic.List<int>' does not contain a definition for `sort' and no extension method `sort' of type `System.Collections.Generic.List<int>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(77,43): error CS1061: Type `System.Collections.Generic.List<int>' does not contain a definition for `length' and no extension method `length' of type `System.Collections.Generic.List<int>' could be found. Are you missing an assembly reference?
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+poly.cs(78,29): error CS0117: `System.Console' does not contain a definition for `write'
+/usr/lib/mono/4.5/mscorlib.dll (Location of the symbol related to previous error)
+Compilation failed: 18 error(s), 0 warnings
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.
+Cannot open assembly 'poly.exe': No such file or directory.

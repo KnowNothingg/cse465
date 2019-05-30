@@ -1,0 +1,5376 @@
+PYTHON TESTING ERRORS: qb
+C# TESTING ERRORS: qb
+qb ../input/qb/qb0.txt
+196 295 2621 11 17
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 61
+Should have been:
+QB #1: 98
+qb ../input/qb/qb101.txt
+174 304 -1337 12 142
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 85
+qb ../input/qb/qb102.txt
+187 206 -7062 2 185
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 115
+qb ../input/qb/qb103.txt
+6 290 -444 245 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb104.txt
+2 2 -179 0 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 119
+qb ../input/qb/qb105.txt
+79 286 1711 84 6
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 48
+Should have been:
+QB #1: 19
+qb ../input/qb/qb106.txt
+109 213 -3899 56 5
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 25
+qb ../input/qb/qb107.txt
+52 199 1369 88 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 53
+Should have been:
+QB #1: 16
+qb ../input/qb/qb108.txt
+137 175 6424 34 56
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 119
+qb ../input/qb/qb109.txt
+90 273 1018 12 84
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 66
+qb ../input/qb/qb10.txt
+51 76 3258 22 5
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 92
+qb ../input/qb/qb110.txt
+210 467 4371 163 124
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 65
+Should have been:
+QB #1: 79
+qb ../input/qb/qb111.txt
+78 404 -4653 262 27
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 22
+qb ../input/qb/qb112.txt
+45 489 280 308 2
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 1
+qb ../input/qb/qb113.txt
+109 347 -1128 60 107
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 41
+qb ../input/qb/qb114.txt
+65 341 6350 189 57
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 79
+qb ../input/qb/qb115.txt
+10 446 959 388 8
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 6
+qb ../input/qb/qb116.txt
+3 3 32 0 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 148
+Should have been:
+QB #1: 151
+qb ../input/qb/qb117.txt
+84 407 4176 174 83
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 69
+Should have been:
+QB #1: 70
+qb ../input/qb/qb118.txt
+76 206 3968 85 66
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 85
+qb ../input/qb/qb119.txt
+22 233 1530 151 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 53
+Should have been:
+QB #1: 16
+qb ../input/qb/qb11.txt
+55 72 -1725 10 31
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 78
+qb ../input/qb/qb120.txt
+115 157 8310 25 38
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 115
+qb ../input/qb/qb121.txt
+200 231 5774 17 87
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 128
+qb ../input/qb/qb122.txt
+167 442 -9068 59 52
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 46
+qb ../input/qb/qb123.txt
+36 90 2615 42 20
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 88
+qb ../input/qb/qb124.txt
+1 17 -92 16 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 20
+qb ../input/qb/qb125.txt
+1 4 -55 0 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb126.txt
+187 279 -7945 66 103
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 70
+qb ../input/qb/qb127.txt
+36 58 2071 15 27
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 106
+qb ../input/qb/qb128.txt
+291 314 -7816 10 136
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 105
+qb ../input/qb/qb129.txt
+221 279 10 48 194
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb12.txt
+119 232 -8685 83 53
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 57
+qb ../input/qb/qb130.txt
+138 287 5642 97 82
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 94
+qb ../input/qb/qb131.txt
+8 306 670 102 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 3
+qb ../input/qb/qb132.txt
+111 154 -2897 26 25
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 75
+qb ../input/qb/qb133.txt
+230 275 9777 34 133
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 119
+qb ../input/qb/qb134.txt
+143 368 -7786 71 51
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 47
+qb ../input/qb/qb135.txt
+89 199 4020 110 73
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 91
+qb ../input/qb/qb136.txt
+147 192 10207 30 27
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 118
+qb ../input/qb/qb137.txt
+294 493 -23066 24 201
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 84
+qb ../input/qb/qb138.txt
+154 164 -2743 0 78
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 119
+qb ../input/qb/qb139.txt
+3 419 -195 404 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 2
+qb ../input/qb/qb13.txt
+314 422 -30431 70 179
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 77
+qb ../input/qb/qb140.txt
+133 284 -8021 13 119
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 74
+qb ../input/qb/qb141.txt
+16 180 -644 139 11
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 20
+qb ../input/qb/qb142.txt
+136 256 -9121 25 64
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 59
+qb ../input/qb/qb143.txt
+1 4 80 0 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 79
+qb ../input/qb/qb144.txt
+60 165 1433 3 13
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 61
+Should have been:
+QB #1: 87
+qb ../input/qb/qb145.txt
+109 310 -2452 157 79
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 44
+qb ../input/qb/qb146.txt
+50 242 3859 74 44
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 79
+qb ../input/qb/qb147.txt
+0 148 0 95 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb148.txt
+34 60 -1637 5 16
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 67
+qb ../input/qb/qb149.txt
+73 126 -4825 50 46
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 63
+qb ../input/qb/qb14.txt
+28 35 1387 0 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 128
+qb ../input/qb/qb150.txt
+283 469 -11851 71 267
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 65
+qb ../input/qb/qb151.txt
+360 361 -23297 1 139
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 118
+qb ../input/qb/qb152.txt
+418 418 -24490 0 344
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 119
+qb ../input/qb/qb153.txt
+150 154 588 2 70
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 117
+qb ../input/qb/qb154.txt
+38 68 -3166 8 27
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 61
+qb ../input/qb/qb155.txt
+78 82 -6982 2 23
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 109
+qb ../input/qb/qb156.txt
+222 397 4299 38 170
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 69
+Should have been:
+QB #1: 94
+qb ../input/qb/qb157.txt
+197 495 -14489 99 59
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 48
+qb ../input/qb/qb158.txt
+8 10 583 0 6
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 158
+qb ../input/qb/qb159.txt
+285 466 -26228 81 25
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 44
+qb ../input/qb/qb160.txt
+26 50 -480 5 19
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 58
+qb ../input/qb/qb161.txt
+24 52 352 27 7
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 53
+Should have been:
+QB #1: 69
+qb ../input/qb/qb162.txt
+307 465 -8636 142 217
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 70
+qb ../input/qb/qb163.txt
+187 224 -4736 1 84
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 117
+qb ../input/qb/qb164.txt
+10 206 381 147 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 2
+qb ../input/qb/qb166.txt
+284 461 -11861 22 118
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 86
+qb ../input/qb/qb167.txt
+37 100 -3125 38 20
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 45
+qb ../input/qb/qb168.txt
+101 202 -9572 91 82
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 56
+qb ../input/qb/qb169.txt
+185 299 -13893 4 78
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 100
+qb ../input/qb/qb16.txt
+118 142 -9693 9 32
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 92
+qb ../input/qb/qb171.txt
+9 16 354 1 6
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 115
+qb ../input/qb/qb172.txt
+54 180 -4165 51 4
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 7
+qb ../input/qb/qb173.txt
+26 206 -2124 72 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 2
+qb ../input/qb/qb174.txt
+148 339 11824 104 84
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 91
+qb ../input/qb/qb175.txt
+186 390 -7831 91 135
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 54
+qb ../input/qb/qb176.txt
+298 351 -29446 53 225
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb177.txt
+114 466 4123 132 93
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 61
+Should have been:
+QB #1: 64
+qb ../input/qb/qb178.txt
+352 403 -25812 15 135
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 103
+qb ../input/qb/qb179.txt
+142 145 -13596 3 16
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 107
+qb ../input/qb/qb17.txt
+35 124 -2943 52 11
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 30
+qb ../input/qb/qb180.txt
+8 106 240 40 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb181.txt
+324 470 -11021 24 269
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 90
+qb ../input/qb/qb182.txt
+93 187 2385 73 54
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 78
+Should have been:
+QB #1: 96
+qb ../input/qb/qb183.txt
+385 405 -13229 20 27
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 81
+qb ../input/qb/qb184.txt
+123 136 4454 10 10
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 113
+qb ../input/qb/qb185.txt
+251 257 2027 5 219
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 57
+Should have been:
+QB #1: 131
+qb ../input/qb/qb186.txt
+88 144 2051 24 38
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 105
+qb ../input/qb/qb187.txt
+1 27 38 3 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb188.txt
+42 111 2234 56 19
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 86
+qb ../input/qb/qb189.txt
+3 34 -42 29 2
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 20
+qb ../input/qb/qb18.txt
+83 92 2777 3 71
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 145
+qb ../input/qb/qb190.txt
+296 399 -5141 26 81
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 89
+qb ../input/qb/qb191.txt
+73 376 4427 212 46
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 73
+Should have been:
+QB #1: 76
+qb ../input/qb/qb192.txt
+26 69 270 3 11
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 71
+qb ../input/qb/qb193.txt
+140 277 -9555 79 51
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 57
+qb ../input/qb/qb194.txt
+129 251 -11447 50 116
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 57
+qb ../input/qb/qb195.txt
+401 470 -36902 44 398
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 80
+qb ../input/qb/qb197.txt
+98 122 7587 18 26
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 119
+qb ../input/qb/qb198.txt
+162 392 816 217 56
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 49
+qb ../input/qb/qb199.txt
+27 57 -2131 2 27
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb19.txt
+2 55 53 17 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 6
+qb ../input/qb/qb1.txt
+324 461 3969 10 35
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 61
+Should have been:
+QB #1: 113
+qb ../input/qb/qb200.txt
+198 325 -2881 114 164
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 65
+qb ../input/qb/qb201.txt
+1 52 79 20 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 6
+qb ../input/qb/qb202.txt
+74 133 -2582 3 44
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 91
+qb ../input/qb/qb203.txt
+41 151 3914 38 25
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 79
+qb ../input/qb/qb204.txt
+130 226 -8573 84 91
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 63
+qb ../input/qb/qb205.txt
+141 224 360 5 17
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 83
+qb ../input/qb/qb206.txt
+355 456 -21739 97 56
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb207.txt
+92 134 -1910 11 21
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 77
+qb ../input/qb/qb208.txt
+6 73 -116 44 6
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 27
+qb ../input/qb/qb209.txt
+74 446 -3971 1 35
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 65
+qb ../input/qb/qb20.txt
+38 293 -220 212 22
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 25
+qb ../input/qb/qb210.txt
+34 243 -2668 41 10
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 14
+qb ../input/qb/qb211.txt
+178 237 4925 1 150
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 155
+qb ../input/qb/qb212.txt
+214 215 -20977 1 27
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 117
+qb ../input/qb/qb213.txt
+410 460 -19759 42 234
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 81
+qb ../input/qb/qb214.txt
+62 363 1325 134 60
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 42
+qb ../input/qb/qb215.txt
+186 405 4690 74 39
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 73
+Should have been:
+QB #1: 81
+qb ../input/qb/qb216.txt
+0 26 0 14 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb217.txt
+46 109 -2693 10 25
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 51
+qb ../input/qb/qb218.txt
+94 293 3984 0 37
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 120
+qb ../input/qb/qb219.txt
+179 253 -6833 8 152
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 100
+qb ../input/qb/qb21.txt
+60 303 2909 144 60
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 65
+Should have been:
+QB #1: 67
+qb ../input/qb/qb220.txt
+42 138 -4076 41 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 3
+qb ../input/qb/qb221.txt
+193 409 -5811 121 30
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 39
+qb ../input/qb/qb222.txt
+248 363 -15778 12 136
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 97
+qb ../input/qb/qb223.txt
+168 452 3859 176 64
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 61
+Should have been:
+QB #1: 69
+qb ../input/qb/qb224.txt
+157 471 -7954 249 42
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 33
+qb ../input/qb/qb225.txt
+409 427 -27116 11 12
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 78
+qb ../input/qb/qb226.txt
+45 127 1878 20 9
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 68
+qb ../input/qb/qb227.txt
+30 126 492 83 30
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 43
+qb ../input/qb/qb228.txt
+377 463 -26282 11 335
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 109
+qb ../input/qb/qb229.txt
+2 2 -196 0 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 119
+qb ../input/qb/qb22.txt
+29 100 -1046 18 10
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 33
+qb ../input/qb/qb230.txt
+32 218 17 14 8
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 25
+qb ../input/qb/qb231.txt
+96 318 -4172 135 24
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 25
+qb ../input/qb/qb232.txt
+171 201 -13809 9 84
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 100
+qb ../input/qb/qb233.txt
+0 47 0 35 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb234.txt
+3 328 -172 177 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb235.txt
+75 86 -2546 3 67
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 104
+qb ../input/qb/qb236.txt
+175 213 -8912 28 112
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb237.txt
+155 205 -6362 1 103
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 115
+qb ../input/qb/qb238.txt
+160 236 4453 70 141
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 111
+qb ../input/qb/qb239.txt
+28 260 -456 208 23
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 29
+qb ../input/qb/qb23.txt
+13 58 -43 0 13
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb240.txt
+136 201 -4006 33 65
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 71
+qb ../input/qb/qb241.txt
+210 295 9663 70 25
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 102
+qb ../input/qb/qb242.txt
+236 346 -8354 77 79
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 71
+qb ../input/qb/qb243.txt
+25 60 542 28 7
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 65
+Should have been:
+QB #1: 74
+qb ../input/qb/qb244.txt
+101 160 4047 54 70
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 107
+qb ../input/qb/qb245.txt
+72 143 3608 34 54
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 96
+qb ../input/qb/qb246.txt
+4 346 341 301 4
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 4
+qb ../input/qb/qb247.txt
+14 157 -879 105 2
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 4
+qb ../input/qb/qb248.txt
+2 118 196 96 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb24.txt
+69 136 -5122 46 28
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 57
+qb ../input/qb/qb250.txt
+43 71 1133 5 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 89
+qb ../input/qb/qb251.txt
+374 460 -35637 40 131
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 83
+qb ../input/qb/qb252.txt
+309 351 -2365 16 147
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 100
+qb ../input/qb/qb253.txt
+166 275 14848 43 99
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 104
+qb ../input/qb/qb255.txt
+162 187 751 8 14
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 44
+Should have been:
+QB #1: 91
+qb ../input/qb/qb256.txt
+51 364 -2753 114 30
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 27
+qb ../input/qb/qb257.txt
+347 385 -10076 16 107
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 101
+qb ../input/qb/qb258.txt
+300 315 -906 6 111
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 111
+qb ../input/qb/qb259.txt
+17 454 -756 269 17
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 12
+qb ../input/qb/qb25.txt
+345 355 -11811 2 324
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 116
+qb ../input/qb/qb260.txt
+28 139 1733 63 22
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 78
+Should have been:
+QB #1: 79
+qb ../input/qb/qb261.txt
+28 63 -2349 23 10
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 52
+qb ../input/qb/qb262.txt
+94 121 -6711 15 43
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb263.txt
+425 459 -23922 34 25
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 66
+qb ../input/qb/qb264.txt
+162 210 5163 17 22
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 120
+qb ../input/qb/qb265.txt
+97 260 3534 118 14
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 64
+qb ../input/qb/qb266.txt
+170 340 6598 53 62
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 96
+qb ../input/qb/qb267.txt
+58 263 -2797 156 6
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 8
+qb ../input/qb/qb268.txt
+39 130 -1388 7 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 25
+qb ../input/qb/qb269.txt
+161 454 9995 110 77
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 84
+qb ../input/qb/qb26.txt
+207 402 -13920 66 41
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 52
+qb ../input/qb/qb270.txt
+256 354 -22678 91 108
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 75
+qb ../input/qb/qb271.txt
+129 156 -3997 2 66
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 113
+qb ../input/qb/qb272.txt
+51 348 691 30 30
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 32
+qb ../input/qb/qb273.txt
+70 309 -3287 92 15
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 16
+qb ../input/qb/qb274.txt
+128 337 11902 86 92
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 86
+qb ../input/qb/qb275.txt
+256 426 5099 166 39
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 73
+Should have been:
+QB #1: 93
+qb ../input/qb/qb276.txt
+114 337 -2477 140 78
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 43
+qb ../input/qb/qb277.txt
+385 473 -31607 29 10
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 61
+qb ../input/qb/qb279.txt
+363 481 -14671 45 342
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 78
+qb ../input/qb/qb27.txt
+39 117 2708 73 18
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 82
+qb ../input/qb/qb280.txt
+155 214 -1316 33 149
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 75
+qb ../input/qb/qb281.txt
+99 131 741 5 19
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 48
+Should have been:
+QB #1: 112
+qb ../input/qb/qb282.txt
+122 307 4587 74 22
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 72
+qb ../input/qb/qb283.txt
+267 328 -1880 27 126
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 84
+qb ../input/qb/qb284.txt
+53 86 -1065 6 45
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 76
+qb ../input/qb/qb285.txt
+58 85 330 27 42
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 75
+qb ../input/qb/qb286.txt
+10 45 781 34 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 62
+qb ../input/qb/qb287.txt
+102 291 8914 24 34
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 88
+qb ../input/qb/qb288.txt
+305 435 -28206 46 133
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 73
+qb ../input/qb/qb289.txt
+279 323 -26913 0 213
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 119
+qb ../input/qb/qb28.txt
+2 93 51 43 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 4
+qb ../input/qb/qb291.txt
+270 316 -25952 29 60
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 81
+qb ../input/qb/qb292.txt
+157 166 -5120 0 121
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 119
+qb ../input/qb/qb293.txt
+14 22 -736 6 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 68
+qb ../input/qb/qb294.txt
+50 96 1212 12 48
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 78
+Should have been:
+QB #1: 98
+qb ../input/qb/qb295.txt
+17 80 444 54 5
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 48
+Should have been:
+QB #1: 31
+qb ../input/qb/qb296.txt
+62 115 -3645 29 37
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 60
+qb ../input/qb/qb297.txt
+81 188 -1696 48 79
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 50
+qb ../input/qb/qb298.txt
+13 17 -299 0 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 98
+qb ../input/qb/qb299.txt
+171 260 6452 86 16
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 90
+qb ../input/qb/qb29.txt
+137 306 -1225 154 91
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 52
+qb ../input/qb/qb2.txt
+336 497 4557 10 49
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 65
+Should have been:
+QB #1: 121
+qb ../input/qb/qb30.txt
+146 300 -11594 53 79
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 55
+qb ../input/qb/qb31.txt
+171 279 -10779 94 120
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 66
+qb ../input/qb/qb32.txt
+117 306 9990 79 13
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 61
+qb ../input/qb/qb33.txt
+102 269 -4399 130 51
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 46
+qb ../input/qb/qb34.txt
+163 329 4977 153 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 59
+qb ../input/qb/qb35.txt
+95 149 -3339 13 2
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 36
+qb ../input/qb/qb36.txt
+463 472 -14934 1 204
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 118
+qb ../input/qb/qb37.txt
+430 434 -10788 4 227
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 115
+qb ../input/qb/qb39.txt
+153 369 -11777 117 85
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 49
+qb ../input/qb/qb3.txt
+285 466 3531 14 16
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 57
+Should have been:
+QB #1: 84
+qb ../input/qb/qb40.txt
+171 370 -3430 192 168
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 53
+qb ../input/qb/qb41.txt
+348 427 -18358 17 41
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 95
+qb ../input/qb/qb42.txt
+71 147 -2682 17 40
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 55
+qb ../input/qb/qb43.txt
+160 166 9146 4 69
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 148
+qb ../input/qb/qb44.txt
+56 192 4616 65 47
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 79
+qb ../input/qb/qb45.txt
+115 186 -6285 64 82
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 66
+qb ../input/qb/qb46.txt
+63 181 970 61 56
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 48
+Should have been:
+QB #1: 53
+qb ../input/qb/qb47.txt
+194 198 10504 3 33
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 152
+qb ../input/qb/qb48.txt
+153 258 -13110 91 136
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 64
+qb ../input/qb/qb49.txt
+278 462 -1825 180 83
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 65
+qb ../input/qb/qb50.txt
+73 176 1045 5 73
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 48
+Should have been:
+QB #1: 89
+qb ../input/qb/qb51.txt
+93 412 9089 202 44
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 75
+qb ../input/qb/qb52.txt
+141 491 1860 278 106
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 43
+qb ../input/qb/qb53.txt
+16 34 -512 12 2
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 34
+qb ../input/qb/qb54.txt
+116 222 -2868 27 73
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 58
+qb ../input/qb/qb55.txt
+56 62 2717 5 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 85
+qb ../input/qb/qb56.txt
+52 470 1521 135 30
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 22
+qb ../input/qb/qb57.txt
+209 479 -8328 57 23
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 27
+qb ../input/qb/qb58.txt
+270 473 -13106 108 221
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 62
+qb ../input/qb/qb59.txt
+34 318 -1534 195 29
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 30
+qb ../input/qb/qb5.txt
+1 2 -10 1 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 17
+qb ../input/qb/qb60.txt
+58 123 3998 57 33
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 93
+qb ../input/qb/qb61.txt
+327 367 -2064 35 100
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb62.txt
+26 424 149 138 24
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 19
+qb ../input/qb/qb63.txt
+240 336 -20818 66 10
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 44
+qb ../input/qb/qb64.txt
+242 494 -4653 8 61
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 88
+qb ../input/qb/qb65.txt
+14 88 613 45 13
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 53
+Should have been:
+QB #1: 56
+qb ../input/qb/qb66.txt
+221 229 6007 5 81
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 149
+qb ../input/qb/qb67.txt
+188 351 -8096 157 60
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 59
+qb ../input/qb/qb68.txt
+181 373 -10972 91 174
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 55
+qb ../input/qb/qb69.txt
+12 42 -1134 0 2
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 55
+qb ../input/qb/qb6.txt
+0 24 0 19 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 0
+qb ../input/qb/qb70.txt
+17 389 655 9 8
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 37
+qb ../input/qb/qb72.txt
+334 386 -9314 8 184
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 110
+qb ../input/qb/qb73.txt
+16 81 284 15 7
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 31
+qb ../input/qb/qb74.txt
+205 496 7477 264 60
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 89
+qb ../input/qb/qb75.txt
+38 140 -3154 68 7
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 17
+qb ../input/qb/qb76.txt
+19 379 -227 51 15
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 13
+qb ../input/qb/qb77.txt
+108 178 -10228 11 46
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb78.txt
+95 121 2896 25 70
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 119
+qb ../input/qb/qb79.txt
+32 42 2696 8 29
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 118
+qb ../input/qb/qb7.txt
+12 189 -1165 64 12
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 21
+qb ../input/qb/qb80.txt
+67 76 -1461 9 59
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 79
+qb ../input/qb/qb81.txt
+215 464 11197 249 78
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 93
+qb ../input/qb/qb82.txt
+62 122 2835 22 34
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 97
+qb ../input/qb/qb83.txt
+266 451 -14971 92 50
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 61
+qb ../input/qb/qb84.txt
+47 53 -3918 2 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 82
+qb ../input/qb/qb85.txt
+380 393 -27481 3 45
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 114
+qb ../input/qb/qb86.txt
+243 288 -7798 14 81
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 98
+qb ../input/qb/qb87.txt
+3 42 -257 8 1
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 8
+qb ../input/qb/qb88.txt
+46 217 1513 151 40
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 53
+Should have been:
+QB #1: 56
+qb ../input/qb/qb89.txt
+95 130 -7003 30 50
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 75
+qb ../input/qb/qb8.txt
+140 331 -5348 161 95
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 50
+qb ../input/qb/qb90.txt
+217 449 -9591 137 3
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 18
+qb ../input/qb/qb91.txt
+202 328 416 39 98
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 66
+qb ../input/qb/qb92.txt
+108 223 -10029 7 12
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 60
+qb ../input/qb/qb93.txt
+154 336 -12322 108 45
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 53
+qb ../input/qb/qb94.txt
+55 143 3645 27 12
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 80
+Should have been:
+QB #1: 75
+qb ../input/qb/qb95.txt
+199 476 5942 159 33
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 78
+Should have been:
+QB #1: 72
+qb ../input/qb/qb96.txt
+79 108 -3688 29 30
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 76
+qb ../input/qb/qb97.txt
+345 471 -10284 72 244
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 76
+qb ../input/qb/qb98.txt
+38 469 1578 123 0
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 2
+qb ../input/qb/qb99.txt
+28 39 -533 6 28
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 74
+qb ../input/qb/qb9.txt
+50 159 -4683 17 37
+0 0 0 0 0
+Your program produced the following output:
+QB #1: 40
+Should have been:
+QB #1: 41
+PYTHON TESTING ERRORS: life
+C# TESTING ERRORS: life
+PYTHON TESTING ERRORS: alarm
+alarm ../input/alarm/alarm11.txt
+1
+12:30am 10:30am
+Your program produced the following output:
+Should have been:
+Going from 12:30am to 10:30am requires 2 pushes.
+alarm ../input/alarm/alarm12.txt
+1
+12:30am 3:19pm
+Your program produced the following output:
+Should have been:
+Going from 12:30am to 3:19pm requires 7 pushes.
+C# TESTING ERRORS: alarm
+alarm ../input/alarm/alarm11.txt
+1
+12:30am 10:30am
+Your program produced the following output:
+Going from 1:1030m to -16:0103m requires -5 pushes.
+Should have been:
+Going from 12:30am to 10:30am requires 2 pushes.
+alarm ../input/alarm/alarm12.txt
+1
+12:30am 3:19pm
+Your program produced the following output:
+Going from 1:1030m to -16:1019m requires -2 pushes.
+Should have been:
+Going from 12:30am to 3:19pm requires 7 pushes.
+PYTHON TESTING ERRORS: connect4
+connect4 ../input/connect4/connect40.txt
+1
+DEDEAABCCBFGDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4100.txt
+1
+FAFABCGEDACBGGFA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4101.txt
+1
+DEBBAAGGFGFBEFDGEDD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4102.txt
+1
+CAAADEDDFFAGFCDBEAGEACEBBGD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4103.txt
+1
+CDCBDEEAAEFCDFC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4104.txt
+1
+GCFGDDBAFAFFCCFABDGCGECB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4105.txt
+1
+GEDBBEDAGDEBEFADCCFEGCEC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4106.txt
+1
+GABDBECEEDAFEGFCBGADACGGFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4107.txt
+1
+BDBFGCAFCDEAGEFECF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4108.txt
+1
+GGAFGBEDABFADCEEAFC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4109.txt
+1
+GBBEFBGCGFCEBCDAFGDAEFCEEGD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect410.txt
+1
+CBEBEACDBFBAGEDABGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4110.txt
+1
+BDGCEDAEEEBEABGAGEDFFGD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4111.txt
+1
+BEDBBBFEAGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4112.txt
+1
+GDDFFFCGEDFEAFABBEAAFDGBADBBDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4113.txt
+1
+DA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4114.txt
+1
+BEEEECGFGBBFFD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4115.txt
+1
+BFCDBAADECFCEEBAAFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4116.txt
+1
+BFCEFFDAFAGFEDEBADFAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4117.txt
+1
+CGAAFDDBGBEAFAGDDFAFFACBFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4118.txt
+1
+CAFGBEFGGCAFEACCGDDEBBGFADFCADAGFDEEEBCB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4119.txt
+1
+AEGECDDBBGEGDCCAGGCAFEB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect411.txt
+1
+GCBADGBCGFCEAEGCFDED
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4120.txt
+1
+BAFEDADFAFCAGFGF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4121.txt
+1
+GAGEBECCADDEBADGEGFEECADBFCC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4122.txt
+1
+ABDDEGEDGBGEAGFDACGBFAECEFFAGADECFCDBBBFCC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4123.txt
+1
+EEBDFDGFACBC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4124.txt
+1
+GBBACGAEACABBADFCECFDDGGCGEFD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4125.txt
+1
+FGEAGGACFFGCCGECEDBDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4126.txt
+1
+FBDGGBBEGCAGABDEAFDCA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4127.txt
+1
+EFDGCGFEGAB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4128.txt
+1
+EBCDAGCAAEECFGGBFDDFGAAEAGFDDBFCEDBBBGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4129.txt
+1
+AEGCGGDBADGDFEBFFC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect412.txt
+1
+CFDFFAFCEDCFGFDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4130.txt
+1
+EADFGCFCBCGAEAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4131.txt
+1
+EACGBGGACFD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4132.txt
+1
+CBGCGBGEFCEDAEFEG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4133.txt
+1
+GEEFBEBDDGFABADC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4134.txt
+1
+DCDDCAEFFEDAEGGFAGEEFACBC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4135.txt
+1
+BFDGEAFBC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4136.txt
+1
+DBGDFBGECGBFBDCEECCDBD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4137.txt
+1
+CEFBDAFFDEFAGEGCGGBDDAAGAADBCFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4138.txt
+1
+EGCCEFEGAGACDAADE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4139.txt
+1
+CADACFBGCGDBE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect413.txt
+1
+BAGDFGCAFCGACFGFCEBEEDBA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4140.txt
+1
+EDFFADCCEEDAEGBGFADB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4141.txt
+1
+ECGBGADCCAEBECF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4142.txt
+1
+ADFEGCDFGDEDEEAFGCBFCBFG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4143.txt
+1
+FCCCGDAEDGAEDGACGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4144.txt
+1
+CFBBFEBAGDACAFGDFE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4145.txt
+1
+AEGBCEBFDCCGFAEBEDADD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4146.txt
+1
+ACCGCBGABCBADGEFBBEDDFBGCEA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4147.txt
+1
+FEFCDFGAECFEDBBCDBEAABG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4148.txt
+1
+CAGBDBABG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4149.txt
+1
+GAEFEGEBCFFDDEGCCGCFAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect414.txt
+1
+EACBAFADBFCDCGEBGAFDGFBGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4150.txt
+1
+ACBEFGFGFFDFAGAAEACBFG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4151.txt
+1
+FEECCECDACDB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4152.txt
+1
+GBEBCABFBAEAAADCFFEBCBE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4153.txt
+1
+BDBGGGEGFDACEADAEBE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4154.txt
+1
+ADEFEDEDABGCBADFFDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4155.txt
+1
+EGGCFAAABECFGDDGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4156.txt
+1
+AGECADFDGFBDED
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4157.txt
+1
+GDGDGAAFCBCDFCFGFBDBCDAEEGF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4158.txt
+1
+GAGDEDEEBDACGEBBFCCD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4159.txt
+1
+DAAAGBB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect415.txt
+1
+DBGDFGDGCAAAGBBFAAFBFBE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4160.txt
+1
+FCABCACBEAAGGFFEEGBFFFGBD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4161.txt
+1
+DDAGGFDBAFEGCBEEAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4162.txt
+1
+AEBDGBDDEFGEDFDFAC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4163.txt
+1
+DEGEGEFBEGDACAGBDCEBFFGFADCCDGACAEB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4164.txt
+1
+FEAGAFCBCDCCBFD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4165.txt
+1
+FEDBCCCDEBCAGFCED
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4166.txt
+1
+GDEBFCEA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4167.txt
+1
+EDGBEEGGCDDFADDDEGGFF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4168.txt
+1
+FGDCEAADGEFEBCDAFAECDGF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4169.txt
+1
+FGFGBAAFDFCDBECBBEDCBAECGACEED
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect416.txt
+1
+GAECAEEDEFACGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4170.txt
+1
+DFDBFABDEGAAFCGBC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4171.txt
+1
+CBABECACGDADCGBABE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4172.txt
+1
+CFEFGEAEGCABFADCAEAE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4173.txt
+1
+AEBFFGBBDDDEEGBGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4174.txt
+1
+CBBAFCEDGBFAFDAA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4175.txt
+1
+BEECGABFFFDCACCDDEBEB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4176.txt
+1
+ACDBGECDEDCDGAGD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4177.txt
+1
+DACDCEDGGCFBCBFAABE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4178.txt
+1
+DFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4179.txt
+1
+BGCEGDCCFADGAFEAFBDCBAACGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect417.txt
+1
+FGDDDDBFCDFFCACEEGBBE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4180.txt
+1
+EFDBDCAFAE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4181.txt
+1
+CDCGFGGDGDAABFFCCAFABB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4182.txt
+1
+ABAGECCGDFBDGEAGCF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4183.txt
+1
+FFBGGCEADCCCFAAGGDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4184.txt
+1
+BDCAFCEGCADFDGDEBFBFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4185.txt
+1
+EABEBFGBDBC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4186.txt
+1
+ECBFDDEGCCFDAEGEAADD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4187.txt
+1
+BEBCEFDCCGEAAGDGDEB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4188.txt
+1
+EBCCGFAEAAGDCDADGF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4189.txt
+1
+CDCGABGDDAFFBDGCECBGEDFBDFAGACGA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect418.txt
+1
+FDEGGFAEDFCAGFCG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4190.txt
+1
+BGAAAFFDCADBDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4191.txt
+1
+FBGEDDABGAFEBGBACC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4192.txt
+1
+EFGCBACCCBGDAEDGEGBAGDCBFF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4193.txt
+1
+DBGCFBFFCADBGEGGAEEDAEBCCABCAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4194.txt
+1
+EAEACGEDAFGCDDADBDGBDGCBCGGFAECFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4195.txt
+1
+BGCBFCDEA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4196.txt
+1
+AFEDEBFAAEGEDFCAFBDCEGGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4197.txt
+1
+BBEGGDACFCACBFEADDFC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4198.txt
+1
+DDAEGCBDEADAACFFGCFB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4199.txt
+1
+ECDGFAAAECBCBGGDAFBEAC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect419.txt
+1
+DFCBDFBEAFDEBCGBFAGCBFE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect41.txt
+1
+DEDEAABCCBFGDEE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect420.txt
+1
+AEDFGEBCDEBDEABAGBFFBFGADCDGEC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect421.txt
+1
+DFCCABFDACAEDGBECEECDFDBCAGGF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect422.txt
+1
+GEGEDDDBFFGFG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect423.txt
+1
+BGAEEFCACACBEFC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect424.txt
+1
+BFDEDAFFEAGBCEDBD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect425.txt
+1
+ECEFFFABBFDABGCDDGGCEACGGBA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect426.txt
+1
+AGDEFFCEGGAEB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect427.txt
+1
+BBGCCGCGBFFADEBBEGAAA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect428.txt
+1
+D
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect429.txt
+1
+GECBCBFAABCGAEEFDGEEBGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect42.txt
+1
+ABACADGE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect430.txt
+1
+GEFBFBFEEDCCAAF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect431.txt
+1
+AEDFAGCDCAAEDEDBCAB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect432.txt
+1
+BDCCBAACFAEFCAEDGDAEEEFEGFBGFGGGCBFADCD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect433.txt
+1
+DBECGDEDF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect434.txt
+1
+EBDCFGFGGAAAFCACBBDBGFDDAC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect435.txt
+1
+AGBEFCBCAGAGCADFABECCBDBDED
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect436.txt
+1
+EDDAFCDGCGDCEB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect437.txt
+1
+AGFBECDGGCCEAFDFDGEEABB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect438.txt
+1
+FBBBCCGAGDFCEGGECDBDGACD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect439.txt
+1
+GFGFDAAEECDCAFGCCAFFDEBCAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect43.txt
+1
+AAAAAABBBBBBCCCCCCEDDDDDDEEEEEFFFFFFGGGGGG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Draw
+Should have been:
+Game #1: Draw
+connect4 ../input/connect4/connect440.txt
+1
+EDAFABECEGBCDGDFCAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect441.txt
+1
+BGGBAEGEACGGCEBBFAFFEDCCBCCADDFED
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect442.txt
+1
+EFBFBFAEEGCAGGAAADGDBDFC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect443.txt
+1
+ADCEGBBBFDACEECCGAFBADGFFBCGD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect444.txt
+1
+CGACFGBCD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect445.txt
+1
+CFACEDGBEBEADFFDCE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect446.txt
+1
+EDGCBDADCBEBCACEC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect447.txt
+1
+EBBGECFADADAEA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect448.txt
+1
+CBGFAADGFGDCEFBADFD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect449.txt
+1
+BCDDBGGDEFCFGCAFEBDBEBAB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect44.txt
+1
+ADAGGFEBDEBCFCGDDEDCFAFADAGE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect450.txt
+1
+AACDGBACEBDDEAGGBFF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect451.txt
+1
+BAFBAGADCBCFFDBGDDEFGE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect452.txt
+1
+BDBGEECFDAAFGBFCBCADGE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect453.txt
+1
+GBDFAEBCFDCCGEFDAAEAAB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect454.txt
+1
+EDFGFECFCDEFBCADAEFABB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect455.txt
+1
+DECCEFDCABGABBDEFDDCBGGDCGECGFEAAGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect456.txt
+1
+GDCFFDGACADBBECGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect457.txt
+1
+BFBGCFCGGEFFBD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect458.txt
+1
+ABGEDFDCFCCDFDBBDABFCFGCE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect459.txt
+1
+ABCFGAFCGFGBDD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect45.txt
+1
+GFEBDGBACFADBFGF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect460.txt
+1
+BGCAFDFFFGEFEAACDGCCBDAE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect461.txt
+1
+BACGFECAGDCBDAC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect462.txt
+1
+BECGCCDAGAFEBAACEBBGBDCCABFFDDFEAFD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect463.txt
+1
+ECBCFGDFBGBCFGAEB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect464.txt
+1
+AGBGCEEDBEGF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect465.txt
+1
+ABEBDFCDBAGC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect466.txt
+1
+ECFBEBCDAFECBEDADEAGGD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect467.txt
+1
+AEAAFDEDFBBDDBBEEDGBAC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect468.txt
+1
+ADFAABACEAGCGEBBDGDEBBC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect469.txt
+1
+GDEFGBCBCCGFCEG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect46.txt
+1
+BFGGBAACFDEDEACFDGFCGBGGDAE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect470.txt
+1
+BEFGGFAFFCDAEFGBEFADEDABBBAAGED
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect471.txt
+1
+CGFDDBBAGACGCFBGEBGBBEEAECEGAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect472.txt
+1
+GGCDEFEDCDACABAGFGBBFBEBCFFAFECCD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect473.txt
+1
+BBAGCBAGGCEAEDDFGBFCBFEECFFD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect474.txt
+1
+CBBGEAGEBCADBCFGEGGDB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect475.txt
+1
+BCACFACBCFDGBCFEGFAABD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect476.txt
+1
+GAEECGDCGDEGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect477.txt
+1
+DDEEGGADF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect478.txt
+1
+FEDDCGGEGCCGFBAGAFFAFCCB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect479.txt
+1
+GDGFFCAE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect47.txt
+1
+FBCABGGAFDDGAEBCFEEECD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect480.txt
+1
+CBEECFCFFDC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect481.txt
+1
+EFCEGBFDBFGEDCBGEEFEAG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect482.txt
+1
+FBDEDFFGDBACBEAGFDAAFE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect483.txt
+1
+DEBDFDDGDCBAABBCBEDCEEFFGGFC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect484.txt
+1
+CBFDGFEDDBFGDE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect485.txt
+1
+CFAFGEDFDEFAE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect486.txt
+1
+GDBFEBABFAEFGEEFFCAGFCCD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect487.txt
+1
+EBBGEEDDEFAAABGEBCBEABFFAF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect488.txt
+1
+BCCAAEDGDAGBDEGGAEE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect489.txt
+1
+GEDGFFBAAAEBEEDDCFACGBBBF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect48.txt
+1
+DCBGCGCAAGBEBEFEADA
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect490.txt
+1
+CDDCACDABCEFBFEEDC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect491.txt
+1
+GDAAGEFGADBDECGABAEEFFBGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect492.txt
+1
+CFDBGBBAEEDFDBFCFAAEAAD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect493.txt
+1
+GDFBDBACBCEECAFFEDAGB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect494.txt
+1
+BAGDEDAGACE
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Game in process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect495.txt
+1
+ABFCDFECBGAFGDACEEBC
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect496.txt
+1
+EEDFCCFGEFEDDCB
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect497.txt
+1
+EDAFDGGDCDEGCAF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect498.txt
+1
+CFGDBBEDCCCEAEGEGDBAAGFCFFBD
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect499.txt
+1
+GAFCEDAGBEFBCADFBCCDAFGADG
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect49.txt
+1
+DBFFDEDDAGGEBCCBEEBEFCBABGCCFDGEAF
+Your program produced the following output:
+Game #1: Game in process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+C# TESTING ERRORS: connect4
+connect4 ../input/connect4/connect40.txt
+1
+DEDEAABCCBFGDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4100.txt
+1
+FAFABCGEDACBGGFA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4101.txt
+1
+DEBBAAGGFGFBEFDGEDD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4102.txt
+1
+CAAADEDDFFAGFCDBEAGEACEBBGD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4103.txt
+1
+CDCBDEEAAEFCDFC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4104.txt
+1
+GCFGDDBAFAFFCCFABDGCGECB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4105.txt
+1
+GEDBBEDAGDEBEFADCCFEGCEC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4106.txt
+1
+GABDBECEEDAFEGFCBGADACGGFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4107.txt
+1
+BDBFGCAFCDEAGEFECF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4108.txt
+1
+GGAFGBEDABFADCEEAFC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4109.txt
+1
+GBBEFBGCGFCEBCDAFGDAEFCEEGD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect410.txt
+1
+CBEBEACDBFBAGEDABGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4110.txt
+1
+BDGCEDAEEEBEABGAGEDFFGD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4111.txt
+1
+BEDBBBFEAGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4112.txt
+1
+GDDFFFCGEDFEAFABBEAAFDGBADBBDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4113.txt
+1
+DA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4114.txt
+1
+BEEEECGFGBBFFD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4115.txt
+1
+BFCDBAADECFCEEBAAFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4116.txt
+1
+BFCEFFDAFAGFEDEBADFAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4117.txt
+1
+CGAAFDDBGBEAFAGDDFAFFACBFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4118.txt
+1
+CAFGBEFGGCAFEACCGDDEBBGFADFCADAGFDEEEBCB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4119.txt
+1
+AEGECDDBBGEGDCCAGGCAFEB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect411.txt
+1
+GCBADGBCGFCEAEGCFDED
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4120.txt
+1
+BAFEDADFAFCAGFGF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4121.txt
+1
+GAGEBECCADDEBADGEGFEECADBFCC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4122.txt
+1
+ABDDEGEDGBGEAGFDACGBFAECEFFAGADECFCDBBBFCC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4123.txt
+1
+EEBDFDGFACBC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4124.txt
+1
+GBBACGAEACABBADFCECFDDGGCGEFD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4125.txt
+1
+FGEAGGACFFGCCGECEDBDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4126.txt
+1
+FBDGGBBEGCAGABDEAFDCA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4127.txt
+1
+EFDGCGFEGAB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4128.txt
+1
+EBCDAGCAAEECFGGBFDDFGAAEAGFDDBFCEDBBBGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4129.txt
+1
+AEGCGGDBADGDFEBFFC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect412.txt
+1
+CFDFFAFCEDCFGFDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4130.txt
+1
+EADFGCFCBCGAEAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4131.txt
+1
+EACGBGGACFD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4132.txt
+1
+CBGCGBGEFCEDAEFEG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4133.txt
+1
+GEEFBEBDDGFABADC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4134.txt
+1
+DCDDCAEFFEDAEGGFAGEEFACBC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4135.txt
+1
+BFDGEAFBC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4136.txt
+1
+DBGDFBGECGBFBDCEECCDBD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4137.txt
+1
+CEFBDAFFDEFAGEGCGGBDDAAGAADBCFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4138.txt
+1
+EGCCEFEGAGACDAADE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4139.txt
+1
+CADACFBGCGDBE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect413.txt
+1
+BAGDFGCAFCGACFGFCEBEEDBA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4140.txt
+1
+EDFFADCCEEDAEGBGFADB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4141.txt
+1
+ECGBGADCCAEBECF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4142.txt
+1
+ADFEGCDFGDEDEEAFGCBFCBFG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4143.txt
+1
+FCCCGDAEDGAEDGACGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4144.txt
+1
+CFBBFEBAGDACAFGDFE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4145.txt
+1
+AEGBCEBFDCCGFAEBEDADD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4146.txt
+1
+ACCGCBGABCBADGEFBBEDDFBGCEA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4147.txt
+1
+FEFCDFGAECFEDBBCDBEAABG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4148.txt
+1
+CAGBDBABG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4149.txt
+1
+GAEFEGEBCFFDDEGCCGCFAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect414.txt
+1
+EACBAFADBFCDCGEBGAFDGFBGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4150.txt
+1
+ACBEFGFGFFDFAGAAEACBFG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4151.txt
+1
+FEECCECDACDB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4152.txt
+1
+GBEBCABFBAEAAADCFFEBCBE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4153.txt
+1
+BDBGGGEGFDACEADAEBE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4154.txt
+1
+ADEFEDEDABGCBADFFDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4155.txt
+1
+EGGCFAAABECFGDDGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4156.txt
+1
+AGECADFDGFBDED
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4157.txt
+1
+GDGDGAAFCBCDFCFGFBDBCDAEEGF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4158.txt
+1
+GAGDEDEEBDACGEBBFCCD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4159.txt
+1
+DAAAGBB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect415.txt
+1
+DBGDFGDGCAAAGBBFAAFBFBE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4160.txt
+1
+FCABCACBEAAGGFFEEGBFFFGBD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4161.txt
+1
+DDAGGFDBAFEGCBEEAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4162.txt
+1
+AEBDGBDDEFGEDFDFAC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4163.txt
+1
+DEGEGEFBEGDACAGBDCEBFFGFADCCDGACAEB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4164.txt
+1
+FEAGAFCBCDCCBFD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4165.txt
+1
+FEDBCCCDEBCAGFCED
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4166.txt
+1
+GDEBFCEA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4167.txt
+1
+EDGBEEGGCDDFADDDEGGFF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4168.txt
+1
+FGDCEAADGEFEBCDAFAECDGF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4169.txt
+1
+FGFGBAAFDFCDBECBBEDCBAECGACEED
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect416.txt
+1
+GAECAEEDEFACGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4170.txt
+1
+DFDBFABDEGAAFCGBC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4171.txt
+1
+CBABECACGDADCGBABE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4172.txt
+1
+CFEFGEAEGCABFADCAEAE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4173.txt
+1
+AEBFFGBBDDDEEGBGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4174.txt
+1
+CBBAFCEDGBFAFDAA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4175.txt
+1
+BEECGABFFFDCACCDDEBEB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4176.txt
+1
+ACDBGECDEDCDGAGD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4177.txt
+1
+DACDCEDGGCFBCBFAABE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4178.txt
+1
+DFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4179.txt
+1
+BGCEGDCCFADGAFEAFBDCBAACGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect417.txt
+1
+FGDDDDBFCDFFCACEEGBBE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4180.txt
+1
+EFDBDCAFAE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4181.txt
+1
+CDCGFGGDGDAABFFCCAFABB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4182.txt
+1
+ABAGECCGDFBDGEAGCF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4183.txt
+1
+FFBGGCEADCCCFAAGGDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4184.txt
+1
+BDCAFCEGCADFDGDEBFBFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4185.txt
+1
+EABEBFGBDBC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4186.txt
+1
+ECBFDDEGCCFDAEGEAADD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect4187.txt
+1
+BEBCEFDCCGEAAGDGDEB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4188.txt
+1
+EBCCGFAEAAGDCDADGF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4189.txt
+1
+CDCGABGDDAFFBDGCECBGEDFBDFAGACGA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect418.txt
+1
+FDEGGFAEDFCAGFCG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4190.txt
+1
+BGAAAFFDCADBDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4191.txt
+1
+FBGEDDABGAFEBGBACC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4192.txt
+1
+EFGCBACCCBGDAEDGEGBAGDCBFF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4193.txt
+1
+DBGCFBFFCADBGEGGAEEDAEBCCABCAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4194.txt
+1
+EAEACGEDAFGCDDADBDGBDGCBCGGFAECFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4195.txt
+1
+BGCBFCDEA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect4196.txt
+1
+AFEDEBFAAEGEDFCAFBDCEGGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4197.txt
+1
+BBEGGDACFCACBFEADDFC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4198.txt
+1
+DDAEGCBDEADAACFFGCFB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect4199.txt
+1
+ECDGFAAAECBCBGGDAFBEAC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect419.txt
+1
+DFCBDFBEAFDEBCGBFAGCBFE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect41.txt
+1
+DEDEAABCCBFGDEE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect420.txt
+1
+AEDFGEBCDEBDEABAGBFFBFGADCDGEC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect421.txt
+1
+DFCCABFDACAEDGBECEECDFDBCAGGF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect422.txt
+1
+GEGEDDDBFFGFG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect423.txt
+1
+BGAEEFCACACBEFC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect424.txt
+1
+BFDEDAFFEAGBCEDBD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect425.txt
+1
+ECEFFFABBFDABGCDDGGCEACGGBA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect426.txt
+1
+AGDEFFCEGGAEB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect427.txt
+1
+BBGCCGCGBFFADEBBEGAAA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect428.txt
+1
+D
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect429.txt
+1
+GECBCBFAABCGAEEFDGEEBGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect42.txt
+1
+ABACADGE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect430.txt
+1
+GEFBFBFEEDCCAAF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect431.txt
+1
+AEDFAGCDCAAEDEDBCAB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect432.txt
+1
+BDCCBAACFAEFCAEDGDAEEEFEGFBGFGGGCBFADCD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect433.txt
+1
+DBECGDEDF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect434.txt
+1
+EBDCFGFGGAAAFCACBBDBGFDDAC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect435.txt
+1
+AGBEFCBCAGAGCADFABECCBDBDED
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect436.txt
+1
+EDDAFCDGCGDCEB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect437.txt
+1
+AGFBECDGGCCEAFDFDGEEABB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect438.txt
+1
+FBBBCCGAGDFCEGGECDBDGACD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect439.txt
+1
+GFGFDAAEECDCAFGCCAFFDEBCAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect43.txt
+1
+AAAAAABBBBBBCCCCCCEDDDDDDEEEEEFFFFFFGGGGGG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Draw
+Should have been:
+Game #1: Draw
+connect4 ../input/connect4/connect440.txt
+1
+EDAFABECEGBCDGDFCAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect441.txt
+1
+BGGBAEGEACGGCEBBFAFFEDCCBCCADDFED
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect442.txt
+1
+EFBFBFAEEGCAGGAAADGDBDFC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect443.txt
+1
+ADCEGBBBFDACEECCGAFBADGFFBCGD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect444.txt
+1
+CGACFGBCD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect445.txt
+1
+CFACEDGBEBEADFFDCE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect446.txt
+1
+EDGCBDADCBEBCACEC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect447.txt
+1
+EBBGECFADADAEA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect448.txt
+1
+CBGFAADGFGDCEFBADFD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect449.txt
+1
+BCDDBGGDEFCFGCAFEBDBEBAB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect44.txt
+1
+ADAGGFEBDEBCFCGDDEDCFAFADAGE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect450.txt
+1
+AACDGBACEBDDEAGGBFF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect451.txt
+1
+BAFBAGADCBCFFDBGDDEFGE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect452.txt
+1
+BDBGEECFDAAFGBFCBCADGE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect453.txt
+1
+GBDFAEBCFDCCGEFDAAEAAB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect454.txt
+1
+EDFGFECFCDEFBCADAEFABB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect455.txt
+1
+DECCEFDCABGABBDEFDDCBGGDCGECGFEAAGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect456.txt
+1
+GDCFFDGACADBBECGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect457.txt
+1
+BFBGCFCGGEFFBD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect458.txt
+1
+ABGEDFDCFCCDFDBBDABFCFGCE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect459.txt
+1
+ABCFGAFCGFGBDD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect45.txt
+1
+GFEBDGBACFADBFGF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect460.txt
+1
+BGCAFDFFFGEFEAACDGCCBDAE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect461.txt
+1
+BACGFECAGDCBDAC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect462.txt
+1
+BECGCCDAGAFEBAACEBBGBDCCABFFDDFEAFD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect463.txt
+1
+ECBCFGDFBGBCFGAEB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect464.txt
+1
+AGBGCEEDBEGF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect465.txt
+1
+ABEBDFCDBAGC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect466.txt
+1
+ECFBEBCDAFECBEDADEAGGD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect467.txt
+1
+AEAAFDEDFBBDDBBEEDGBAC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect468.txt
+1
+ADFAABACEAGCGEBBDGDEBBC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect469.txt
+1
+GDEFGBCBCCGFCEG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect46.txt
+1
+BFGGBAACFDEDEACFDGFCGBGGDAE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect470.txt
+1
+BEFGGFAFFCDAEFGBEFADEDABBBAAGED
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect471.txt
+1
+CGFDDBBAGACGCFBGEBGBBEEAECEGAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect472.txt
+1
+GGCDEFEDCDACABAGFGBBFBEBCFFAFECCD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect473.txt
+1
+BBAGCBAGGCEAEDDFGBFCBFEECFFD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect474.txt
+1
+CBBGEAGEBCADBCFGEGGDB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect475.txt
+1
+BCACFACBCFDGBCFEGFAABD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect476.txt
+1
+GAEECGDCGDEGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect477.txt
+1
+DDEEGGADF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect478.txt
+1
+FEDDCGGEGCCGFBAGAFFAFCCB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect479.txt
+1
+GDGFFCAE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect47.txt
+1
+FBCABGGAFDDGAEBCFEEECD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect480.txt
+1
+CBEECFCFFDC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect481.txt
+1
+EFCEGBFDBFGEDCBGEEFEAG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect482.txt
+1
+FBDEDFFGDBACBEAGFDAAFE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect483.txt
+1
+DEBDFDDGDCBAABBCBEDCEEFFGGFC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect484.txt
+1
+CBFDGFEDDBFGDE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect485.txt
+1
+CFAFGEDFDEFAE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect486.txt
+1
+GDBFEBABFAEFGEEFFCAGFCCD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect487.txt
+1
+EBBGEEDDEFAAABGEBCBEABFFAF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect488.txt
+1
+BCCAAEDGDAGBDEGGAEE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect489.txt
+1
+GEDGFFBAAAEBEEDDCFACGBBBF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect48.txt
+1
+DCBGCGCAAGBEBEFEADA
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect490.txt
+1
+CDDCACDABCEFBFEEDC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect491.txt
+1
+GDAAGEFGADBDECGABAEEFFBGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect492.txt
+1
+CFDBGBBAEEDFDBFCFAAEAAD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect493.txt
+1
+GDFBDBACBCEECAFFEDAGB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect494.txt
+1
+BAGDEDAGACE
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Game in Process
+Should have been:
+Game #1: Game in progress
+connect4 ../input/connect4/connect495.txt
+1
+ABFCDFECBGAFGDACEEBC
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect496.txt
+1
+EEDFCCFGEFEDDCB
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect497.txt
+1
+EDAFDGGDCDEGCAF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Red Wins
+Should have been:
+Game #1: Red wins
+connect4 ../input/connect4/connect498.txt
+1
+CFGDBBEDCCCEAEGEGDBAAGFCFFBD
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect499.txt
+1
+GAFCEDAGBEFBCADFBCCDAFGADG
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+connect4 ../input/connect4/connect49.txt
+1
+DBFFDEDDAGGEBCCBEEBEFCBABGCCFDGEAF
+Your program produced the following output:
+Game #1: Game in Process
+Game #2: Black Wins
+Should have been:
+Game #1: Black wins
+PYTHON TESTING ERRORS: poly
+poly ../input/poly/poly2.txt
+1
+2x^2-2x^2
+4x^-2
+Your program produced the following output:
+-8x^1+0x^0
+Should have been:
+0x^1
+poly ../input/poly/poly3.txt
+1
+1x^1+1x^1+1x^1
+1x^1+1x^1+1x^1
+Your program produced the following output:
+4x^2
+Should have been:
+9x^2
+poly ../input/poly/poly6.txt
+1
+2x^2-2x^2
+4x^-2
+Your program produced the following output:
+-8x^1+0x^0
+Should have been:
+0x^1
+poly ../input/poly/poly8.txt
+1
+1x^1+1x^1+1x^1
+1x^1+1x^1+1x^1
+Your program produced the following output:
+4x^2
+Should have been:
+9x^2
+poly ../input/poly/poly9.txt
+1
+-1x^1-1x^1-1x^1
+-1x^1-1x^1-1x^1
+Your program produced the following output:
+4x^2
+Should have been:
+9x^2
+C# TESTING ERRORS: poly
+poly ../input/poly/poly0.txt
+1
+-3x^20-1x^-2
+4x^0
+Your program produced the following output:
+Should have been:
+-12x^20-4x^-2
+poly ../input/poly/poly10.txt
+1
+3x^2
+8x^43
+Your program produced the following output:
+Should have been:
+24x^45
+poly ../input/poly/poly11.txt
+1
+6x^10-5x^4
+6x^10-5x^4
+Your program produced the following output:
+Should have been:
+36x^20-60x^14+25x^8
+poly ../input/poly/poly1.txt
+1
+1x^3+1x^2+1x^1
+1x^2+2x^1
+Your program produced the following output:
+Should have been:
+1x^5+3x^4+3x^3+2x^2
+poly ../input/poly/poly2.txt
+1
+2x^2-2x^2
+4x^-2
+Your program produced the following output:
+Should have been:
+0x^1
+poly ../input/poly/poly3.txt
+1
+1x^1+1x^1+1x^1
+1x^1+1x^1+1x^1
+Your program produced the following output:
+Should have been:
+9x^2
+poly ../input/poly/poly4.txt
+1
+-3x^20-1x^-2
+4x^0
+Your program produced the following output:
+Should have been:
+-12x^20-4x^-2
+poly ../input/poly/poly5.txt
+1
+1x^3+1x^2+1x^1
+1x^2+2x^1
+Your program produced the following output:
+Should have been:
+1x^5+3x^4+3x^3+2x^2
+poly ../input/poly/poly6.txt
+1
+2x^2-2x^2
+4x^-2
+Your program produced the following output:
+Should have been:
+0x^1
+poly ../input/poly/poly7.txt
+1
+1x^1+1x^2+1x^3
+1x^10+1x^2+1x^30
+Your program produced the following output:
+Should have been:
+1x^33+1x^32+1x^31+1x^13+1x^12+1x^11+1x^5+1x^4+1x^3
+poly ../input/poly/poly8.txt
+1
+1x^1+1x^1+1x^1
+1x^1+1x^1+1x^1
+Your program produced the following output:
+Should have been:
+9x^2
+poly ../input/poly/poly9.txt
+1
+-1x^1-1x^1-1x^1
+-1x^1-1x^1-1x^1
+Your program produced the following output:
+Should have been:
+9x^2
